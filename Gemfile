@@ -5,6 +5,7 @@ gem 'ransack',          github: 'activerecord-hackery/ransack'      # Require fo
 #gem 'formtastic',       github: 'justinfrench/formtastic'           # Require for ActiveAdmin to work with Rails 4.1
 gem 'devise'                                                        # Authentication
 gem 'kaminari'
+#this is my usa project
 #gem 'formtastic'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.4'
