@@ -33,13 +33,6 @@ GIT
       ransack (~> 1.0)
       sass-rails
 
-GIT
-  remote: git://github.com/justinfrench/formtastic.git
-  revision: d107e18f307f90df60e854c0875d225e330a8854
-  specs:
-    formtastic (2.3.0.rc3)
-      actionpack (>= 3.2.13)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -92,6 +85,8 @@ GEM
       warden (~> 1.2.3)
     erubis (2.7.0)
     execjs (2.2.1)
+    formtastic (2.3.0.rc3)
+      actionpack (>= 3.0)
     has_scope (0.6.0.rc)
       actionpack (>= 3.2, < 5)
       activesupport (>= 3.2, < 5)
@@ -187,7 +182,6 @@ DEPENDENCIES
   activeadmin!
   coffee-rails (~> 4.0.0)
   devise
-  formtastic!
   jbuilder (~> 2.0)
   jquery-rails
   kaminari
